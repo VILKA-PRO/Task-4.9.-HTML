@@ -100,11 +100,11 @@ a:hover {
     justify-content: center;
     height: 100vh;
 
-    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), 75%, rgb(0, 74, 97)), url(/images/Wow-gif.gif);
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), 75%, rgb(0, 74, 97)), url(../images/Wow-gif.gif);
     background-color: #999;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center; 
 
     padding-top: 100px;
 
@@ -116,7 +116,7 @@ a:hover {
     justify-content: center;
     height: 100vh;
 
-    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), 75%, rgb(0, 74, 97)), url(/images/cat_2.gif);
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), 75%, rgb(0, 74, 97)), url(../images/cat_2.gif);
     background-color: #999;
     background-repeat: no-repeat;
     background-size: cover;
@@ -132,7 +132,7 @@ a:hover {
     justify-content: center;
     height: 100vh;
 
-    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), 75%, rgb(0, 74, 97)), url(/images/look_for.gif);
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), 75%, rgb(0, 74, 97)), url(../images/look_for.gif);
     background-color: #999;
     background-repeat: no-repeat;
     background-size: cover;
